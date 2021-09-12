@@ -1,3 +1,2 @@
 ## Interactive Data visualization
----
-### App Link [Click Here](http://data-visualization-web.herokuapp.com/)
+### App Link [Click Here](https://interactive-data-visualization.herokuapp.com/)
